@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1713202850 source:c:\users\usuario\desktop\tp4dematrices\matrices_tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"time.h"
+	"string.h"
+
+1713237110 source:c:\users\usuario\desktop\matrices_tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"time.h"
+	"string.h"
+
